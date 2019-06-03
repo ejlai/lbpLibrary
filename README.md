@@ -36,6 +36,11 @@ Jump in to this folder
 	Python 3.6.7 (default, Oct 22 2018, 11:32:17) 
 	[GCC 8.2.0] on linux
 	Type "help", "copyright", "credits" or "license" for more information.
-	>>> from lbp import *
-	>>> lbp3d
+	
+	from lbp import *
+	
+	lbp3d
+	
+	Return:
+	
 	<module 'lbp.lbp3d' from '/usr/local/lib/python3.6/dist-packages/lbp/lbp3d.py'>
