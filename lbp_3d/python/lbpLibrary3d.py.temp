@@ -101,15 +101,3 @@ def coordToPoints(mask, width, height):
 						round(z[l]-0.5)*width*height; 					
 						m = m + 1;
 		mask['mask'] = points
-
-
-	
-
-
-
-
-
-
-
-
-
