@@ -26,7 +26,9 @@ Jump in to this folder
 3. Compile the library for python3
 
 	kai@kai-VirtualBox:~/projects/lbpLibrary$ cmake ../../lbpLibrary
+	
 	kai@kai-VirtualBox:~/projects/lbpLibrary$ sudo make install
+	
 	kai@kai-VirtualBox:~/projects/lbpLibrary$ sudo python3 setup.py install
 
 4. Now, the library is installed in system. You can test it
